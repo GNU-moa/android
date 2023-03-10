@@ -15,10 +15,10 @@
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
-            android:name=".heartActivity"
+            android:name=".HeartActivity"
             android:exported="false" />
         <activity
-            android:name=".SubActivity"
+            android:name=".NoticeActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
